@@ -80,7 +80,7 @@ class Distribution:
         ax.set_ylim(0, y_max)
 
         fig.savefig(
-            f"figs/unbiased_ consistent_estimator/{self.dist_name}_estimated_s.png"
+            f"figs/unbiased_consistent_estimator/{self.dist_name}_estimated_s.png"
         )
 
     def cals_statistics(self):
