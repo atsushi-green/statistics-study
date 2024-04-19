@@ -97,7 +97,6 @@ class Distribution:
         print()
 
 
-# usage
 if __name__ == "__main__":
     s1_dist = Distribution("面積を計算してから平均をとる")
     s2_dist = Distribution("辺の長さの平均をとってから2乗する")
