@@ -25,7 +25,7 @@ $ rye sync
 # Contents
 
 ## Unbiased and Consistent estimator
-$X \sim N(\mu, \sigma^2)$ に従う母集団からの標本$X_1, X_2, \cdots, X_n$を用いて$S=\mu^2$の推定量を以下の3通りの方法で求める。
+$X \sim N(\mu, \sigma^2)$ に従う母集団からの標本 $X_1, X_2, \cdots, X_n$ を用いて $S=\mu^2$ の推定量を以下の3通りの方法で求める。
 
 1. $S_1 = \frac{1}{n}\sum_{i=1}^{n} {x_i}^2$
 2. $S_2 = \bar{X}^2$
