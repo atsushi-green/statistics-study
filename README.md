@@ -43,7 +43,7 @@ $ python src/unbiased_consistent_estimator/unbiased_consistent_estimator.py
 ### 実行結果
 figs/unbiased_consistent_estimator 以下に各推定量ヒストグラムが保存される。
 
-## Missing Data
+## Imputation of Missing Values
 欠損データの欠損メカニズムと、補完方法についてのシミュレーションを行う。欠損メカニズムに対して、各種補完方法を用いるとどのような偏りが生じるかを図で確認する。
 
 欠損メカニズムは以下の3つを実装。
